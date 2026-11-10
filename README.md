@@ -1,4 +1,4 @@
-# bai tap nhom 7 
+# Bài tập nhóm 7 
 ## Phân Tích Mối Quan Hệ Giữa Các Chỉ Tiêu Hóa Lý Và Chất Lượng Cảm Quan Của Rượu Vang Đỏ (Red Wine Quality)
 Dự án nghiên cứu và phân tích dữ liệu toàn diện về tập dữ liệu **Red Wine Quality** (Cortez et al., 2009), nhằm đánh giá mối quan hệ thống kê giữa các chỉ tiêu hóa lý với điểm số chất lượng cảm quan của rượu vang đỏ, đồng thời đề xuất giải pháp kiểm soát chất lượng mẻ ủ và kiến trúc học máy ứng dụng trong sản xuất.
 - **Nguồn dữ liệu:** URL: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
