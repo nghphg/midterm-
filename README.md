@@ -17,7 +17,7 @@ Dự án nghiên cứu và phân tích dữ liệu toàn diện về tập dữ 
 Dự án yêu cầu **Python 3.9+** (khuyến nghị Python 3.10 – 3.13) cùng các thư viện sau:
 ```bash
 pip install numpy pandas matplotlib seaborn scipy pingouin statsmodels scikit-learn nbformat nbconvert
-
-📚 Tài Liệu Tham Khảo
+```
+## Tài Liệu Tham Khảo
 Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Modeling wine preferences by data mining from physicochemical properties. Decision Support Systems, 47(4), 547–553. https://doi.org/10.1016/j.dss.2009.05.016
 UCI Machine Learning Repository. (2009). Wine Quality. https://doi.org/10.24432/C56S3T
